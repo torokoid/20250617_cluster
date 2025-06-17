@@ -144,7 +144,7 @@ p.note { display: none; }
     
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tF_xwkjjQMg?si=3FW-MflXRW-DB_k5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
     
-<h2><span class="yellow">6〜8曲目はまいてゃさんの曲に合わせてマヨイガさんとシーリアさんのダンス</span></h2>
+<h2><span class="yellow">6〜8曲目はまいてゃさんの曲に合わせてマヨイガさんとシーリアさんのダンス<br>BGM再生はこちらの都合上、頭きれしちゃいますのでごめんなさい〜</span></h2>
     
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aedZZAvwb1c?si=UP4ewOlGCnuh-HCC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
     
