@@ -122,10 +122,13 @@ p.note { display: none; }
 <p align="right"><marquee direction="left" scrollamount="20" width="30%">(^_^)/~alis</marquee></p>
 
 <!--流れ文字の挿入例-->
-<h1><span class="yellow"><marquee behavior="left">!!! 2025/06/18、マヨイガさん朗読、水曜日はオープンマイク!!!</marquee></span></h1>
-<h2><span class="yellow">マヨイガさんの朗読「鮭のおおすけ」</span></h2>
+<h1><span class="yellow"><marquee behavior="left">!!! 2025/06/18、水曜日はオープンマイク!!!</marquee></span></h1>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0PAshgV0j5M?si=dFniGpXUDpSruaSa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<h2><span class="yellow">マヨイガさんの朗読「鮭のおおすけ」</span></h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0PAshgV0j5M?si=dFniGpXUDpSruaSa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
+
+<h2><span class="yellow">かずさんの演奏に合わせてマヨイガさんのダンス</span></h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ojjJsQk8JFY?si=cXwrRANf7dNXbHBF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
