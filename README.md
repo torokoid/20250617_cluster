@@ -122,13 +122,15 @@ p.note { display: none; }
 <p align="right"><marquee direction="left" scrollamount="20" width="30%">(^_^)/~alis</marquee></p>
 
 <!--流れ文字の挿入例-->
-<h1><span class="yellow"><marquee behavior="left">!!! 2025/06/16、Clusterイベント、琉球ナイト!!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="left">!!! 2025/06/18、マヨイガさん朗読、水曜日はオープンマイク!!!</marquee></span></h1>
+<h2><span class="yellow">マヨイガさんの朗読「鮭のおおすけ」</span></h2>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0PAshgV0j5M?si=dFniGpXUDpSruaSa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <!--ここから下が、本体部分-->
-
+<h1><span class="yellow"><marquee behavior="left">!!! 2025/06/16、Clusterイベント、琉球ナイト!!!</marquee></span></h1>
 <h2><span class="yellow">1〜4曲目はかずさんの三線に合わせてマヨイガさんの踊り</span></h2>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OlT-mywaPvI?si=HF9ch_9YIkPywHAp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
