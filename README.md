@@ -121,6 +121,27 @@ p.note { display: none; }
 <p align="left"> <img src="QR_2025Jun17.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
 <p align="right"><marquee direction="left" scrollamount="20" width="30%">(^_^)/~alis</marquee></p>
 
+<!--ここから下が、本体部分-->
+
+<!--流れ文字の挿入例-->
+<h1><span class="yellow"><marquee behavior="left">!!! 2025/06/21、武州路回遊誕生日SP_ジェントルワード選手権!!!</marquee></span></h1>
+
+<h2><span class="yellow">ユウキさん、トロリーバス</span></h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BO8x58q495k?si=n9oabB_32ghz4-l5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
+
+<h2><span class="yellow">トリムさん、鶴ヶ城</span></h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBeaqLbTKgY?si=DSLsat_GGjGz89AW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
+
+<h2><span class="yellow">まいちゃん、マヨイガさん、アルペンルートグルメ</span></h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T7bNzicHQSI?si=VcrPQ8ZIh7adJy01" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
+
+<h2><span class="yellow">ユウキさん、トロリーバス_2</span></h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLl6_c-E-kQ?si=SgFszWNOC8-xtL8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
+
+
+
+<br><br><br><br>
+
 <!--流れ文字の挿入例-->
 <h1><span class="yellow"><marquee behavior="left">!!! 2025/06/18、水曜日はオープンマイク!!!</marquee></span></h1>
 
@@ -130,9 +151,9 @@ p.note { display: none; }
 <h2><span class="yellow">かずさんの演奏に合わせてマヨイガさんのダンス</span></h2>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ojjJsQk8JFY?si=cXwrRANf7dNXbHBF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br>
 
-<!--ここから下が、本体部分-->
+
 <h1><span class="yellow"><marquee behavior="left">!!! 2025/06/16、Clusterイベント、琉球ナイト!!!</marquee></span></h1>
 <h2><span class="yellow">1〜4曲目はかずさんの三線に合わせてマヨイガさんの踊り</span></h2>
 
