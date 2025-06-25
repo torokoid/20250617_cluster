@@ -124,6 +124,18 @@ p.note { display: none; }
 <!--ここから下が、本体部分-->
 
 <!--流れ文字の挿入例-->
+<h1><span class="yellow"><marquee behavior="left">!!! 2025/06/25、九十九奇譚第二十二夜!!!</marquee></span></h1>
+
+<h2><span class="yellow">玖遠さん、龍の血</span></h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-xXlWsjr32s?si=EYZtsT8BEVRgoI0J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<h2><span class="yellow">マヨイガさん、龍の刀</span></h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0eHX0sCPZ-A?si=buuz1TBJtrgVY6tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
+<br><br><br><br>
+<!--流れ文字の挿入例-->
 <h1><span class="yellow"><marquee behavior="left">!!! 2025/06/21、武州路回遊誕生日SP_ジェントルワード選手権!!!</marquee></span></h1>
 
 <h2><span class="yellow">ユウキさん、トロリーバス</span></h2>
