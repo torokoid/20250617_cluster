@@ -125,7 +125,7 @@ p.note { display: none; }
 
 <h1><span class="yellow"><marquee behavior="left">!!! 2025/07/02、オープンマイク!!!</marquee></span></h1>
 
-<h2><span class="yellow">Z-TONさんとmaiちゃんの島唄でまいてゃさんがダンス</span></h2>
+<h2><span class="yellow">Z-TONさんとmaiちゃんの島唄でマヨイガさんがダンス</span></h2>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CWuXdTnqhGg?si=PezMtW1BidDqrD8o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <h2><span class="yellow">hitさんが2曲披露してくれましたが、2曲目の途中で収録PCがクラッシュ<br>今回はクラッシュ場面もあえて残してます</span></h2>
