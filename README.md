@@ -123,6 +123,19 @@ p.note { display: none; }
 
 <!--ここから下が、本体部分-->
 
+<br><br><br><br>
+<!--流れ文字の挿入例-->
+<h1><span class="yellow"><marquee behavior="left">!!! 2025/07/11、MGB relaxing music listening !!</marquee></span></h1>
+
+<h2><span class="yellow">今回も特等席で撮れたので、マヨイガさんのダンスもバッチリ！</span></h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pQKSJxaav2g?si=-445ZAurSKDT9pjl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K3CuXhdeKlY?si=HnkmlehEYs_R6IJe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hhYal9kXIPE?si=hc5ccoDsP3lEQHhP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
+
+<br><br><br><br>
+<!--流れ文字の挿入例-->
 <h1><span class="yellow"><marquee behavior="left">!!! 2025/07/09、九十九奇譚、二十三夜!!!</marquee></span></h1>
 
 <h2><span class="yellow">マヨイガさんの解説「セミの不死」</span></h2>
