@@ -141,6 +141,8 @@ p.note { display: none; }
 <h2><span class="yellow">マヨイガさんの解説「セミの不死」</span></h2>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LEaZP45GENo?si=b0uzPM4_Ns2VgL8-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<br><br><br><br>
+<!--流れ文字の挿入例-->
 <h1><span class="yellow"><marquee behavior="left">!!! 2025/07/02、オープンマイク!!!</marquee></span></h1>
 
 <h2><span class="yellow">Z-TONさんとmaiちゃんの島唄でマヨイガさんがダンス</span></h2>
