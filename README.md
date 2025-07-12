@@ -139,17 +139,17 @@ p.note { display: none; }
 <h1><span class="yellow"><marquee behavior="left">!!! 2025/07/09、九十九奇譚、二十三夜!!!</marquee></span></h1>
 
 <h2><span class="yellow">マヨイガさんの解説「セミの不死」</span></h2>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LEaZP45GENo?si=b0uzPM4_Ns2VgL8-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LEaZP45GENo?si=b0uzPM4_Ns2VgL8-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
 
 <br><br><br><br>
 <!--流れ文字の挿入例-->
 <h1><span class="yellow"><marquee behavior="left">!!! 2025/07/02、オープンマイク!!!</marquee></span></h1>
 
 <h2><span class="yellow">Z-TONさんとmaiちゃんの島唄でマヨイガさんがダンス</span></h2>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CWuXdTnqhGg?si=PezMtW1BidDqrD8o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CWuXdTnqhGg?si=PezMtW1BidDqrD8o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
 
 <h2><span class="yellow">hitさんが2曲披露してくれましたが、2曲目の途中で収録PCがクラッシュ<br>今回はクラッシュ場面もあえて残してます</span></h2>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CpZhU4OY-p8?si=y7fFor2NFyx8FZSz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CpZhU4OY-p8?si=y7fFor2NFyx8FZSz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
 
 
 <br><br><br><br>
@@ -157,7 +157,7 @@ p.note { display: none; }
 <h1><span class="yellow"><marquee behavior="left">!!! 2025/06/28、ストーリーテラス!!!</marquee></span></h1>
 
 <h2><span class="yellow">まいてゃさんの3曲<br>BGM設定と通信、録画環境が悪くて１曲目はボロボロ、２曲目以降はなんとか聴けるレベルです</span></h2>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/72G6iGCLDPo?si=Y7-XCK9aZeklaSGR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/72G6iGCLDPo?si=Y7-XCK9aZeklaSGR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
 
 
 <br><br><br><br>
@@ -165,10 +165,10 @@ p.note { display: none; }
 <h1><span class="yellow"><marquee behavior="left">!!! 2025/06/25、九十九奇譚第二十二夜!!!</marquee></span></h1>
 
 <h2><span class="yellow">玖遠さん、龍の血</span></h2>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-xXlWsjr32s?si=EYZtsT8BEVRgoI0J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-xXlWsjr32s?si=EYZtsT8BEVRgoI0J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
 
 <h2><span class="yellow">マヨイガさん、龍の刀</span></h2>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0eHX0sCPZ-A?si=buuz1TBJtrgVY6tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0eHX0sCPZ-A?si=buuz1TBJtrgVY6tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
 
 
 
