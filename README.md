@@ -125,6 +125,18 @@ p.note { display: none; }
 
 <br><br><br><br>
 <!--流れ文字の挿入例-->
+<h1><span class="yellow"><marquee behavior="left">!!! 2025/07/16、九十九奇譚外伝、「狐火」ナイト !!</marquee></span></h1>
+
+<h2><span class="yellow">マヨイガさんのお話、まいてゃさんとリヴィさんの歌<br>リヴィさんの曲は1曲だけです</span></h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QYlWrojX_Mo?si=_x8eaBHRO_SFth5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/72hKciunVwc?si=qoLTe-1JMEwoRFxD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jstd0i3yuTI?si=h4fGI0PmWVwNnpHJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
+
+
+<br><br><br><br>
+<!--流れ文字の挿入例-->
 <h1><span class="yellow"><marquee behavior="left">!!! 2025/07/11、MGB relaxing music listening !!</marquee></span></h1>
 
 <h2><span class="yellow">今回も特等席で撮れたので、マヨイガさんのダンスもバッチリ！</span></h2>
