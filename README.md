@@ -125,6 +125,26 @@ p.note { display: none; }
 
 <br><br><br><br>
 <!--流れ文字の挿入例-->
+<h1><span class="yellow"><marquee behavior="left">!!! 2025/07/28 DJでダンスしよう !!</marquee></span></h1>
+
+<h2><span class="yellow">20250728 DJでダンス前半</span></h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vlMUgdWq2jg?si=ectdppVPC7AzHH4K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
+
+<h2><span class="yellow">20250728 DJでダンス後半</span></h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Kf3kT_ngivo?si=IrSzj40RBBAcREyz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
+
+<h2><span class="yellow">20250728 DJでダンス_DJ-Dさん</span></h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v0rPV3lYr_k?si=9DLM7MhdrnfZhhvT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
+
+<br><br><br><br>
+<!--流れ文字の挿入例-->
+<h1><span class="yellow"><marquee behavior="left">!!! 2025/07/27、 TTVR !!</marquee></span></h1>
+
+<h2><span class="yellow">山乃辺七瀬さん</span></h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0Pf1qDx1bw?si=m3mzWllki2IGc0X4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
+
+<br><br><br><br>
+<!--流れ文字の挿入例-->
 <h1><span class="yellow"><marquee behavior="left">!!! 2025/07/16、九十九奇譚外伝、「狐火」ナイト !!</marquee></span></h1>
 
 <h2><span class="yellow">マヨイガさんのお話、まいてゃさんとリヴィさんの歌<br>リヴィさんの曲は1曲だけです</span></h2>
