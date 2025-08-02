@@ -125,6 +125,20 @@ p.note { display: none; }
 
 <br><br><br><br>
 <!--流れ文字の挿入例-->
+<h1><span class="yellow"><marquee behavior="left">!!! 2025/08/01 妖精郷のムラへ行こう !!</marquee></span></h1>
+
+<h2><span class="yellow">20250801_妖精のムラへ行こう_まいてゃさんの歌</span></h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5SmtCtcBo9A?si=aR4mfHTvDLkqfwUk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
+
+<h2><span class="yellow">20250801_妖精のムラへ行こう_マヨイガさんダンス</span></h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7W8FWFYZVSI?si=LKnTehkXhOSlFVo2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
+
+<h2><span class="yellow">20250801_妖精のムラへ行こう_マヨイガさん物語追試、アキラックスさんのお話</span></h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dk2eiJPIBf8?si=CyxNFRXaq6nLD1D5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
+
+
+<br><br><br><br>
+<!--流れ文字の挿入例-->
 <h1><span class="yellow"><marquee behavior="left">!!! 2025/07/28 DJでダンスしよう !!</marquee></span></h1>
 
 <h2><span class="yellow">20250728 DJでダンス前半</span></h2>
