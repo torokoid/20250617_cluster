@@ -151,11 +151,52 @@ p.note { display: none; }
 
 <!--ここから下が、本体部分-->
 
+<div class="media-container">
+
+<br><br><br><br>
+<!--流れ文字の挿入例-->
+<h1><span class="yellow"><marquee behavior="left">!!! 2025/08/15 ひみつきちライブ !!</marquee></span></h1>
+
+<h2><span class="yellow">20250815_ひみつきち_まいてゃさんの歌</span></h2>
+<div class="youtube-wrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HUqLBXnlQOo?si=11MUJ8ocKL5Wf-CD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  </div>
+
+
+<br><br><br><br>
+<!--流れ文字の挿入例-->
+<h1><span class="yellow"><marquee behavior="left">!!! 2025/08/12 ひみつきち&新ワールドライブ !!</marquee></span></h1>
+
+<h2><span class="yellow">20250812_ひみつきち_まいてゃさんの歌1</span></h2>
+<div class="youtube-wrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FIU1lFEuj00?si=HfSVnZzNOCO-T5LK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  </div>
+
+<h2><span class="yellow">20250812_ひみつきち_まいてゃさんの歌2</span></h2>
+<div class="youtube-wrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/s-aJeWjNXsQ?si=wipOrSB3Jy6fzg39" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  </div>
+
+<h2><span class="yellow">20250812_ひみつきち_まいてゃさんの歌3</span></h2>
+<div class="youtube-wrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uuNEQBtRtAY?si=8IgJL3_TcI6h1gMn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  </div>
+
+<h2><span class="yellow">20250812_新ワールド_まいてゃさんの歌4</span></h2>
+<div class="youtube-wrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZpR5KAF6vyw?si=3hc0cEZFvra4Ny3O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  </div>
+
+<h2><span class="yellow">20250812_新ワールド_まいてゃさんの歌5</span></h2>
+<div class="youtube-wrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9iKwR4B0K60?si=yn-m8kP2MH-IPFzG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  </div>
+
+
+
 <br><br><br><br>
 <!--流れ文字の挿入例-->
 <h1><span class="yellow"><marquee behavior="left">!!! 2025/08/01 妖精郷のムラへ行こう !!</marquee></span></h1>
-
-<div class="media-container">
 
 <h2><span class="yellow">20250801_妖精のムラへ行こう_まいてゃさんの歌</span></h2>
 <div class="youtube-wrapper">
